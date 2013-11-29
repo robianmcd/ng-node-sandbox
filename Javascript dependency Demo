@@ -1,0 +1,52 @@
+Javascript dependency Demo
+
+-Clone repo
+-show mark down edirot
+-look at package.json and install dependencies with npm
+-Run server
+-Debug client
+-Show running app
+-Set breakpoint and debug clicking on button - show debug configuration. Maybe show conditional breakpoint
+
+-Added deplay and show "ctrl+Click", 
+
+-Show sass
+-add compass to grunt file and make it the default thing to run
+	-npm install compass --save
+-run grunt and show color picket in color.scss
+-add watch to grunt
+
+
+
+TIM
+-show maven plugin
+
+-show/explain other plugins (replace (cache bust), jasmine/coverage, copy)
+-show coverage, break, fix a test and watch grunt output. Maybe debug a test
+
+-Problem with not storing your node_modules in your repo
+-Problem with storing your modules in your repo
+-npm shrinkwrap
+-Check for outdated dependencies
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Warnings (similar to checkstyles/find bugs for Javascript)
+-Ctrl + Click
+-Git integration
+	-Easily review changes and warnings that were introduced before commiting.
+
+-Js/HTML/CSS/SCSS editors much better than Eclipse's
+-Auto Complete
+-Refactoring
+	-Renaming file updates refrences to it in HTML
