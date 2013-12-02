@@ -1,7 +1,7 @@
 ng-node-sandbox
 ===============
 
-This is a sample sandbox website that uses NodeJs and AngularJs. The table below gives a full like of the libraries and technologies used.
+This is a sample sandbox website that uses NodeJs and AngularJs. The table below lists the main libraries and technologies used.
 
 | Library/Technology | Use |
 |---|---|
