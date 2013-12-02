@@ -7,10 +7,4 @@ var HomeCtrl = function(utils) {
 
 HomeCtrl.prototype.doSomething = function() {
     this.numClicks++;
-    this.message = "You clicked the button. Way to go!";
-
-    var _this = this;
-    this.utils.applyMediumDelay(function() {
-        _this.message = "";
-    });
 };
